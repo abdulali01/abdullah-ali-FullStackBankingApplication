@@ -9,7 +9,17 @@ Open http://localhost:3000 to view it in your browser.
 The page will reload when you make changes.
 You may also see any lint errors in the console.
 
+https://youtu.be/45wFpeGU7TQ
 
+Install all dependencies 
+NPM Install *XXXX*
+ "bootstrap": "^5.3.3",
+    "cors": "^2.8.5",
+    "express": "^4.21.0",
+    "firebase": "^10.13.2",
+    "firebase-admin": "^12.5.0",
+    "mongodb": "^4.8.1",
+    "nodemon": "^3.1.7"
 
 npm run build
 Builds the app for production to the build folder.
