@@ -9,7 +9,8 @@ Open http://localhost:3000 to view it in your browser.
 The page will reload when you make changes.
 You may also see any lint errors in the console.
 
-https://youtu.be/45wFpeGU7TQ
+YouTube: Walthrough of the app - https://youtu.be/45wFpeGU7TQ
+AWS - http://abdullah-alifullstackbankingapplication.s3-website.us-east-2.amazonaws.com
 
 Install all dependencies 
 NPM Install *XXXX*
